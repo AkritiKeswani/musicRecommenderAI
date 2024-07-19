@@ -1,0 +1,5 @@
+[
+  { "mood": "happy", "song": "Don't Stop Me Now", "artist": "Queen" },
+  { "mood": "sad", "song": "Someone Like You", "artist": "Adele" },
+  { "mood": "energetic", "song": "Eye of the Tiger", "artist": "Survivor" }
+]
